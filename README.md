@@ -1,6 +1,6 @@
-- 👋 Olá! Sou enfermeira e aluna de mestrado em enfermagem
-- 🔭 Tenho interesse em pesquisa e procuro aprender diferentes ferramentas para colaborar com as ciências da saúde
-- 🎲 Atualmente estou aprenderndo Python para utilizar em análise de dados hospitalares
-- 🌱 Meu conhecimento em tecnologia é iniciante, mas tenho bastante experiência em pesquisas em saúde
+- 👋 Olá! Me chamo Ana, sou enfermeira e mestre em enfermagem
+- 🔭 Iniciei minha trajetória na tecnologia usando métodos da ciência de dados para fazer pesquisa em saúde
+- 🎲 Tenho conhecimento iniciante em Python para análise de dados, e bastante interesse em Machine Learning
+- 🌱 Estou no início da transição de carreira
 - 📫 Fale comigo em clarabritocruz@gmail.com
 - 📄 Saiba mais sobre mim em https://anaclaracruz.carrd.co/
